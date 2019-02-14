@@ -7,7 +7,9 @@ Given an Input csv file with Vendor, product and amount spend, it calculates tot
 The Project is executable on Windows, the executable file is stored in Intern_Assignment/Intern_assignment.exe
 
 
-### Python version 3.7
+### Software
+
+The initial program is developed in Python 3.7 and the python file is located in this repository as Intern_Assignment.py
 
 ### Getting the code 
 
@@ -27,7 +29,7 @@ Transaction Date  Vendor  Product  Amount
 
 ### How to run
 
-Go to the location where the repository is located cd into the Intern_Assignment folder
+Go to the location where the repository is located in your local machine and cd into the Intern_Assignment folder
 
 ```
 cd Intern_Assignment
