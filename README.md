@@ -21,10 +21,13 @@ git clone https://github.com/ForumSuthar/Spend-Reporter.git
 
 ### Sample CSV Input
 
-The input csv should contain the follow fields. Refer the .csv provided in this repository
+The input for this project is a csv file which is read and analyzed to calculated the spend amount.
+The csv should contain the follow fields. Refer the .csv provided in this repository
 
 ```
-Transaction Date  Vendor  Product  Amount
+Transaction Date  Vendor     Product    Amount
+1/28/2019	        Microsoft	 Office365	432854
+
 ```
 
 ### How to run
