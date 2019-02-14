@@ -4,94 +4,62 @@ Given an Input csv file with Vendor, product and amount spend, it calculates tot
 System Requirements:
 OS: Windows
 
+
+
+
+
+
+
+## Windows
+
+The Project is executable on Windows
+
+## Linux
+
+The Project can run on other operating system , to do so, convert the Intern_Assignment.py file into the executable file supported for Linux
+
+http://openbookproject.net/thinkcs/python/english3e/app_c.html
+
+### Python version 3.7
+
+### Getting the code 
+
 Clone the repository onto your local machine using the following command:
 
+```
 git clone git clone https://github.com/ForumSuthar/Spend-Reporter.git
-
-# Project Title
-
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
 ```
 
-### Installing
+## Sample CSV Input
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+The input csv should contain the follow fields. Refer the .csv provided in this repository
 
 ```
-Give the example
+Transaction Date  Vendor  Product  Amount
 ```
 
-And repeat
+### How to run
+
+Go to the location where the repository is located cd into the Intern_Assignment folder
 
 ```
-until finished
+cd Intern_Assignment
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+And Run the executable file with the path of the csv file as follows:
+
+```
+Intern_Assignment <file_path>
+```
+
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Run the program with the sample csv 
 
 ```
-Give an example
+Intern_assignment "C:\Users\forum\Intern Take Home Assignment Input File.csv"
 ```
 
-### And coding style tests
 
-Explain what these tests test and why
 
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
