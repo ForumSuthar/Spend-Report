@@ -4,13 +4,8 @@ Given an Input csv file with Vendor, product and amount spend, it calculates tot
 
 ## Windows
 
-The Project is executable on Windows
+The Project is executable on Windows, the executable file is stored in Intern_Assignment/Intern_assignment.exe
 
-## Linux
-
-The Project can run on other operating system , to do so, convert the Intern_Assignment.py file into the executable file supported for Linux
-
-http://openbookproject.net/thinkcs/python/english3e/app_c.html
 
 ### Python version 3.7
 
