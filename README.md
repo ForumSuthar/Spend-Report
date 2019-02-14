@@ -35,7 +35,7 @@ Transaction Date  Vendor     Product    Amount
 Go to the location where the repository is located in your local machine and cd into the Intern_Assignment folder
 
 ```
-cd Intern_Assignment
+<cloned rep> cd Intern_Assignment
 ```
 
 And Run the executable file with the path of the csv file as follows:
