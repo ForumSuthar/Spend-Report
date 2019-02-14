@@ -17,7 +17,7 @@ Clone the repository onto your local machine using the following command:
 git clone git clone https://github.com/ForumSuthar/Spend-Reporter.git
 ```
 
-## Sample CSV Input
+### Sample CSV Input
 
 The input csv should contain the follow fields. Refer the .csv provided in this repository
 
