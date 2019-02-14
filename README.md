@@ -26,7 +26,7 @@ The csv should contain the follow fields. Refer the .csv provided in this reposi
 
 ```
 Transaction Date  Vendor     Product    Amount
-1/28/2019	        Microsoft	 Office365	432854
+1/28/2019         Microsoft	 Office365	432854
 
 ```
 
