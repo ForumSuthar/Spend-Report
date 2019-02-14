@@ -14,7 +14,7 @@ The Project is executable on Windows, the executable file is stored in Intern_As
 Clone the repository onto your local machine using the following command:
 
 ```
-git clone git clone https://github.com/ForumSuthar/Spend-Reporter.git
+git clone https://github.com/ForumSuthar/Spend-Reporter.git
 ```
 
 ### Sample CSV Input
