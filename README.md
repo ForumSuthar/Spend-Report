@@ -25,7 +25,7 @@ The input for this project is a csv file which is read and analyzed to calculate
 The csv should contain the follow fields. Refer the .csv provided in this repository
 
 ```
-Transaction Date  Vendor        Product    Amount
+Transaction Date  Vendor        Product       Amount
 1/28/2019         Microsoft	 Office365	432854
 
 ```
